@@ -1,3 +1,3 @@
 Live Website : 
 
-https://app.netlify.com/projects/auction-gallery-atik-a7/overview
+https://auction-gallery-atik-a7.netlify.app/
