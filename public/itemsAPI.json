@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Camera",
+      "description": "A 1960s film camera in working condition.",
+      "currentBidPrice": 120.51,
+      "timeLeft": "2h 30m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/svMDthKz/bart-van-dijk-swx-Pxjx-HNkc-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Antique Pocket Watch",
+      "description": "Classic gold-plated pocket watch with chain.",
+      "currentBidPrice": 245.99,
+      "timeLeft": "1d 4h",
+      "bidsCount": 15,
+      "image": "https://i.ibb.co.com/ynp7Z9f9/muhammad-sohel-khan-E0-Pu-HE6-Vb-RE-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Laptop",
+      "description": "High-performance laptop with RTX 3080 GPU.",
+      "currentBidPrice": 1350.99,
+      "timeLeft": "3h 15m",
+      "bidsCount": 23,
+      "image": "https://i.ibb.co.com/GfRDshdt/onur-binay-60x59t9f-A-o-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electric Guitar",
+      "description": "Fender Stratocaster in sunburst finish.",
+      "currentBidPrice": 760.99,
+      "timeLeft": "12h 5m",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/213XcvW3/simon-weisser-ph-S37wg8c-Qg-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Smartphone (New)",
+      "description": "Latest model with 256GB storage and 5G.",
+      "currentBidPrice": 899.99,
+      "timeLeft": "4d 2h",
+      "bidsCount": 34,
+      "image": "https://i.ibb.co.com/bM5Lwvmx/pixelperfektion-6u-XUe-P4-Ao-TY-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Designer Handbag",
+      "description": "Luxury leather handbag, limited edition.",
+      "currentBidPrice": 1340.12,
+      "timeLeft": "2d 18h",
+      "bidsCount": 27,
+      "image": "https://i.ibb.co.com/TzyLDP4/the-nix-company-N8w-Hd-Ct0-GBo-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mountain Bike",
+      "description": "All-terrain MTB with 21-speed gears.",
+      "currentBidPrice": 480.75,
+      "timeLeft": "1d 12h",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/d4NpDn3R/haidan-Cfhw-Q2-ZTa-RY-unsplash.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Art Print",
+      "description": "Signed limited edition art print.",
+      "currentBidPrice": 210.99,
+      "timeLeft": "22h 45m",
+      "bidsCount": 10,
+      "image": "https://i.ibb.co.com/hFYrvm04/europeana-5-TK1-F5-Vfd-Ik-unsplash.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Drone with Camera",
+      "description": "4K drone with live-stream and GPS.",
+      "currentBidPrice": 525.99,
+      "timeLeft": "3d 5h",
+      "bidsCount": 20,
+      "image": "https://i.ibb.co.com/bgtxsxNT/vanilla-bear-films-3vsgop-n-OE0-unsplash.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Wireless Headphones",
+      "description": "Noise-cancelling over-ear headphones.",
+      "currentBidPrice": 180.99,
+      "timeLeft": "5h 20m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/HLXfnCTH/daniel-romero-6-V5v-Tuoe-CZg-unsplash.jpg"
+    }
+  ]
+  
